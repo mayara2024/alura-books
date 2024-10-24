@@ -1,0 +1,59 @@
+.bandeira{
+
+fundo: var (--azul-degradado);
+
+cor: var (--branco);
+
+alinhamento de texto:centro;
+
+preenchimento: 2,5 em 2 em;
+
+}
+
+.banner_titulo{
+
+tamanho da fonte: 18px;
+
+espessura da fonte: 700;
+
+}
+
+.banner_texto{
+
+espessura da fonte: 500;
+
+margem: 1em 0;
+
+}
+
+.banner_pesquisa{
+
+cor de fundo: transparente;
+
+fronteira: 1pxsólidovar (--branco);
+
+cor: var (--branco);
+
+raio da borda: 24px;
+
+preenchimento: 1 em;
+
+largura: 100 %;
+
+}
+
+.banner_pesquisa:: espaço reservado{
+
+família de fontes: var(--fonte-principal);
+
+tamanho da fonte: 14px;
+
+espessura da fonte: 400;
+
+alinhamento de texto:centro;
+
+cor: var(--branco);
+
+fundo: URL("../img/Lupa.svg") sem repetição; posição de fundo: 1em;
+
+}
