@@ -1,0 +1,105 @@
+.carrossel_titulo{
+
+cor: var(--laranja);
+
+cor de fundo: var(--branco); alinhamento de texto:centro; transformação de texto:maiúsculas; tamanho da fonte: 18px;
+
+espessura da fonte: 700;
+
+preenchimento: 1em 0 0,5em 0;
+
+.deslizador-deslizante imagem{
+
+largura: 100%;
+
+}
+
+.botão-deslizador-anterior,
+
+.botão-deslizador-próximo{
+
+mostrar: nenhum;
+
+}
+
+<>
+
+}
+
+.paginação de swiper {
+
+posição: inicial;
+
+margem: .5em 0;
+
+}
+
+.cartão{
+
+fundo: var(--branco);
+
+caixa-sombra: 0px 4px 4px rgb(0, 0, 0, 0,25)
+
+raio da borda: 10px;
+
+margem: 1em;
+
+preenchimento: 1em;
+
+}
+
+.cartão_descrição{
+
+mostrar: flexível;
+
+justificar-conteúdo: espaço-entre;
+
+margem inferior: 0,5em;
+
+}
+
+.cartão_botõé{
+
+mostrar: flexível;
+
+justificar-conteúdo: espaço-entre;
+
+}
+
+.robôōé{
+
+mostrar: flexível;
+
+}
+
+.descreverção_título{
+
+cor: var(--laranja);
+
+espessura da fonte: 700;
+
+}
+
+.descreverção_titulo-livro{
+
+cor: var(--azul); tamanho da fonte: 18px; espessura da fonte: 700; margem: 0,5em 0;
+
+}
+
+.descreverção_texto{
+
+tamanho da fonte: 14px;
+
+}
+
+.robôões_ancora{
+
+cor de fundo: var(--laranja); preenchimento: 1em 2.2em; cor: var(--branco); espessura da fonte: 700; decoração de texto: nenhum;
+
+}
+
+.robôões_item{
+
+margem: 00,5em;
+
+}
