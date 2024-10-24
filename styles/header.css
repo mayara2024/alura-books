@@ -1,0 +1,97 @@
+.cabeçalho_menu-hamburguer {
+
+largura: 24px;
+
+altura: 24px;
+
+mostrar:bloco embutido;
+
+imagem de fundo: URL("../img/Menu.svg");
+
+repetição de fundo: sem repetição;
+
+posição de fundo: centro;
+}
+.cabeçalho{
+
+cor de fundo: var(--branco);
+
+mostrar: flexível;
+
+justificar-conteúdo: espaço-entre;
+
+alinhar-itens:centro;
+
+posição: relativo;
+
+}
+
+.recipiente{
+
+mostrar: flexível;
+
+alinhar-itens:centro;
+
+}
+
+.imagem_do_container{
+
+preenchimento: 1em;
+
+}
+
+.lista-menu{
+
+mostrar:nenhum;
+
+posição: absoluto;
+
+principal: 100%;
+
+largura: 60vw;
+
+}
+
+.container_botao: verificado.lista-menu{
+
+mostrar:bloquear;
+
+}
+
+.lista-menu_titulo,
+
+.lista-menu_item{
+
+preenchimento: 1em;
+
+cor de fundo: var(--branco);
+
+}
+
+.lista-menu_titulo{
+
+cor: var(--laranja);
+
+espessura da fonte: 700;
+
+}
+
+.lista-menu_link{
+
+fundo: var(--azul-degradado);
+
+-webkit-fundo-clipe: texto;
+
+-webkit-texto-preenchimento-cor: transpare
+
+clipe de fundo: texto;
+
+transformação de texto:maiúsculas;
+
+}
+
+.container_botao{
+
+mostrar: nenhum;
+
+}
