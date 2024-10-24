@@ -1,0 +1,39 @@
+.paraoupicos{ fundo: var(--azul-degradado); alinhamento de texto:centro; preenchimento: 1em 0; }
+
+.paraoupicos_titulo{
+
+cor: var(--branco);
+
+espessura da fonte: 300;
+
+margem inferior: 1em;
+
+}
+
+.paraoupicos_lista{
+
+mostrar:flexível;
+
+envoltório flexível: enrolar;
+
+justificar-conteúdo:centro;
+
+}
+
+.paraoupicos_item{
+
+margem: 2em 0,5em;
+
+}
+
+.paraoupicos_link{
+
+cor: var(--branco);
+
+preenchimento: 1em;
+
+cor de fundo: var(--laranja); decoração de texto: nenhum; tamanho da fonte: 14px;
+
+espessura da fonte: 700;
+
+  }
