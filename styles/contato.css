@@ -1,0 +1,61 @@
+.contato{
+
+cor de fundo: var(--branco);
+
+preenchimento: 1em;
+
+.contato_titulo,
+
+.contato_texto{
+
+fundo: var(--azul-degradado);
+
+-webkit-fundo-clipe: texto;
+
+-webkit-texto-preenchimento-cor: transparente;
+
+clipe de fundo:texto;
+
+}
+
+.contato_titulo{
+
+tamanho da fonte: 18px;
+
+espessura da fonte: 500;
+
+}
+
+.contato_texto{
+
+espessura da fonte: 300;
+
+margem: 1em 0;
+
+}
+
+.contato_email{
+
+preenchimento: 1em;
+
+fronteira: 1pxsólidovar(--azul);
+
+raio da borda: 24px;
+
+largura: 90%;
+
+cor: var(--azul);
+
+}
+
+.contato_email:: espaço reservado{
+
+família de fontes: var(--fonte-principal);
+
+cor: var(--azul);
+
+fundo: URL("../img/Email.svg") sem repetição5%;
+
+preenchimento-esquerdo: 2em;
+
+}
